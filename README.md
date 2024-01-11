@@ -10,9 +10,6 @@ This repository contains the code and data for performing an Exploratory Data An
 - [Data](#data)
 - [Analysis](#analysis)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
